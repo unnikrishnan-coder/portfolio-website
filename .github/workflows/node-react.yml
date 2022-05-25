@@ -1,4 +1,4 @@
-name: Node.ci
+name: Node react build ci
 
 on:
   push:

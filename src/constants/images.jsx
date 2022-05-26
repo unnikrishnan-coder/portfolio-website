@@ -57,7 +57,6 @@ const pics = {
   about02,
   about03,
   about04,
-  profile,
   circle,
   logo,
   adidas,
